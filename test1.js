@@ -1,0 +1,1 @@
+console.log("Hard work beats talent when talent doesn't work hard.");
